@@ -1,3 +1,6 @@
+## Information
+Im gonna be using this as a idea to create something of my own
+
 ## Developing
 
 Once you've cloned the project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
